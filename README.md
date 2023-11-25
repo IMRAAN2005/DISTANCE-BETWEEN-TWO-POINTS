@@ -10,9 +10,9 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: Use the in-built sqrt function to find the distance.
 ### Step 5: Print the value of distance.
 ### PROGRAM:
-  #Program to find the distance between two points.
-#Developed by: Depuru Bhargava Venkata Sai Ganesh
-#RegisterNumber:23009248
+#Program to find the distance between two points.
+#Developed by: SHAIK MAHAMMAD IMRAAN
+#RegisterNumber:23011682
 import math
 x1,y1=4,2
 x2,y2=10,6
