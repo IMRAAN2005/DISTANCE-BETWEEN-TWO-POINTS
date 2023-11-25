@@ -10,6 +10,7 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: Use the in-built sqrt function to find the distance.
 ### Step 5: Print the value of distance.
 ### PROGRAM:
+```
 #Program to find the distance between two points.
 #Developed by: SHAIK MAHAMMAD IMRAAN
 #RegisterNumber:23011682
@@ -18,7 +19,7 @@ x1,y1=4,2
 x2,y2=10,6
 distance=math.sqrt((x2-x1)**2 + (y2-y1)**2)
 print("{0:.2f}".format(distance))
-
+```
 
 ### OUTPUT:
 ![image](https://github.com/IMRAAN2005/DISTANCE-BETWEEN-TWO-POINTS/assets/149347407/29f4c9e0-c6b8-441b-956b-ae6d81ce9721)
